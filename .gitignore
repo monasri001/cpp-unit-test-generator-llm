@@ -1,0 +1,7 @@
+/build/
+/out/
+*.info
+*.gcno
+*.gcda
+test_exec
+venv

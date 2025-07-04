@@ -1,0 +1,6 @@
+task: "Refactor generated unit tests"
+instructions:
+  - Remove duplicate tests
+  - Add missing #include statements
+  - Ensure each function has one meaningful test
+  - Improve test names and formatting

@@ -1,0 +1,8 @@
+task: "Generate Google Test unit tests for a C++ file"
+instructions:
+  - Use Google Test format
+  - No duplicate test cases
+  - Add required headers
+  - One test per function
+  - Test edge cases and boundary inputs
+output: "Properly formatted C++ test file"
