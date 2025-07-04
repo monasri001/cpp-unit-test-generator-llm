@@ -28,6 +28,7 @@ This project demonstrates an AI-powered tool that automatically generates and re
 | Coverage Tool     | `lcov + genhtml` |
 | Status            | ✅ Coverage Captured and HTML Report Generated |
 
+![Test Coverage Output](https://raw.githubusercontent.com/monasri001/cpp-unit-test-generator-llm/main/test%20coverage%20output.png)
 
 
 ## 🚀 Key Features
